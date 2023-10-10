@@ -1,4 +1,3 @@
-
 define ('WP_CONTENT_FOLDERNAME', 'assets');
 define ('WP_CONTENT_DIR', ABSPATH . WP_CONTENT_FOLDERNAME) ;
 
